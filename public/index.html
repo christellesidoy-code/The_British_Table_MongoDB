@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>The British Table</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+
+    <!-- =========================
+         NAVIGATION
+    ========================== -->
+
+    <header class="site-header">
+
+        <div
+            class="brand"
+            onclick="show('home')"
+        >
+
+            <div class="brand-title">
+                THE BRITISH TABLE
+            </div>
+
+            <div class="brand-subtitle">
+                ENGLISH RESTAURANT DIRECTORY
+            </div>
+
+        </div>
+
+
+        <nav class="main-nav">
+
+            <button
+                data-page="home"
+                onclick="show('home')"
+            >
+                Home
+            </button>
+
+
+            <button
+                data-page="restaurants"
+                onclick="show('restaurants')"
+            >
+                Restaurants
+            </button>
+
+
+            <button
+                data-page="search"
+                onclick="show('search')"
+            >
+                Search
+            </button>
+
+
+            <button
+                data-page="insights"
+                onclick="show('insights')"
+            >
+                Insights
+            </button>
+
+
+            <!-- IMPORTANT:
+                 This opens the ADD RESTAURANT screen
+            -->
+
+            <button
+                class="add-nav-button"
+                onclick="add()"
+            >
+                + Add Restaurant
+            </button>
+
+        </nav>
+
+    </header>
+
+
+
+    <!-- =========================
+         MAIN APP
+    ========================== -->
+
+    <main id="app"></main>
+
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer>
+
+        <div class="footer-title">
+            THE BRITISH TABLE
+        </div>
+
+        <div class="footer-text">
+            A refined directory of English & British dining spots.
+        </div>
+
+    </footer>
+
+
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

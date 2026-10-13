@@ -1,0 +1,362 @@
+[
+  {
+    "restaurant_id": "30075445",
+    "name": "Morris Park Bake Shop",
+    "borough": "Bronx",
+    "cuisine": "Bakery",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "grade": "A",
+        "score": 6
+      },
+      {
+        "grade": "A",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "restaurant_id": "30112340",
+    "name": "Wendy'S",
+    "borough": "Brooklyn",
+    "cuisine": "Hamburgers",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "grade": "B",
+        "score": 23
+      },
+      {
+        "grade": "A",
+        "score": 12
+      }
+    ]
+  },
+  {
+    "restaurant_id": "30191841",
+    "name": "Dj Reynolds Pub And Restaurant",
+    "borough": "Manhattan",
+    "cuisine": "Irish",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "grade": "A",
+        "score": 12
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40358429",
+    "name": "May May Kitchen",
+    "borough": "Brooklyn",
+    "cuisine": "Chinese",
+    "grades": [
+      {
+        "grade": "B",
+        "score": 21
+      },
+      {
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "grade": "C",
+        "score": 56
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40362432",
+    "name": "Ho Mei Restaurant",
+    "borough": "Queens",
+    "cuisine": "Chinese",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "A",
+        "score": 5
+      },
+      {
+        "grade": "A",
+        "score": 12
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363289",
+    "name": "Happy Garden",
+    "borough": "Bronx",
+    "cuisine": "Chinese",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "B",
+        "score": 15
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40360098",
+    "name": "Dunkin' Donuts",
+    "borough": "Brooklyn",
+    "cuisine": "Donuts",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "grade": "A",
+        "score": 9
+      },
+      {
+        "grade": "A",
+        "score": 11
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40361390",
+    "name": "Nordic Delicacies",
+    "borough": "Brooklyn",
+    "cuisine": "Delicatessen",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 4
+      },
+      {
+        "grade": "A",
+        "score": 3
+      },
+      {
+        "grade": "A",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40362715",
+    "name": "The Country Cafe",
+    "borough": "Manhattan",
+    "cuisine": "Turkish",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 9
+      },
+      {
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "grade": "A",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40362098",
+    "name": "Harriet'S Kitchen",
+    "borough": "Manhattan",
+    "cuisine": "Chicken",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "grade": "A",
+        "score": 13
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363093",
+    "name": "Carvel Ice Cream",
+    "borough": "Bronx",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "A",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40360076",
+    "name": "Carvel Ice Cream",
+    "borough": "Brooklyn",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "grade": "A",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40361521",
+    "name": "Glorious Food",
+    "borough": "Manhattan",
+    "cuisine": "American",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "grade": "B",
+        "score": 16
+      },
+      {
+        "grade": "A",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40361606",
+    "name": "The Movable Feast",
+    "borough": "Brooklyn",
+    "cuisine": "American",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "grade": "A",
+        "score": 13
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363151",
+    "name": "Olive'S",
+    "borough": "Manhattan",
+    "cuisine": "Bakery",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "grade": "A",
+        "score": 7
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363333",
+    "name": "Tony'S Deli",
+    "borough": "Queens",
+    "cuisine": "Delicatessen",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "grade": "A",
+        "score": 12
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363565",
+    "name": "Hot Bagels",
+    "borough": "Queens",
+    "cuisine": "Bagels/Pretzels",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "grade": "B",
+        "score": 23
+      },
+      {
+        "grade": "A",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "restaurant_id": "40363590",
+    "name": "Snack Time Grill",
+    "borough": "Queens",
+    "cuisine": "American",
+    "grades": [
+      {
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "grade": "A",
+        "score": 7
+      }
+    ]
+  }
+]
